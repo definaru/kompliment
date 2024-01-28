@@ -1,0 +1,17 @@
+2024-01-22 21:42:10 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:42:10 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:42:10 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:42:10 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:47:03 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:47:03 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:47:03 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-22 21:47:03 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:08:08 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:08:08 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:08:08 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:08:08 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:24:35 - PHP Notice:  Undefined variable: twig in /home/a/aspect2com/kompliment_me/public_html/system/library/template/twig.php on line 43
+2024-01-26 21:26:41 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:26:41 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:26:41 - PHP Notice:  Undefined index: RUB in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
+2024-01-26 21:26:41 - PHP Warning:  Division by zero in /home/a/aspect2com/kompliment_me/public_html/admin/controller/extension/currency/ecb.php on line 121
